@@ -3,3 +3,44 @@ npm create vite@latest
 cd projectFolder
 npm i
 npm run dev
+
+---------------------
+
+https://github.com/hiteshchoudhary/chai-aur-react
+
+------------------------
+
+check
+React Fiber
+https://github.com/acdlite/react-fiber-architecture
+
+---------------------
+
+Tailwind
+https://tailwindcss.com/docs/guides/vite
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+--------------------------
+
+ <button
+                      onClick={() => setColor("blue")}
+                      className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
+                      style={{backgroundColor: "blue"}}
+                    >Blue</button>
+----------------------
+
+Project 1
+
+npm create vite@latest
+05PasswordGenerator
+
+# install tailwind: https://tailwindcss.com/docs/guides/vite
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+check: useCallback in React
+----------
